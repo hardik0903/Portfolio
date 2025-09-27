@@ -26,14 +26,14 @@ const Projects = () => {
                 {/* Project Image */}
                 <div className={`relative ${index % 2 === 1 ? 'lg:col-start-2' : ''}`}>
                   <div className="relative overflow-hidden rounded-lg bg-light-navy">
-                    <div className="aspect-video">
+                    <div className="aspect-video p-2">
                       <img 
                         src={project.image} 
                         alt={`${project.title} preview`}
-                        className="w-full h-full object-cover"
+                        className="w-full h-full object-contain rounded"
                       />
                     </div>
-                    <div className="absolute inset-0 bg-navy/70 group-hover:bg-navy/20 transition-colors"></div>
+                    <div className="absolute inset-0 bg-navy/70 group-hover:bg-navy/20 transition-colors rounded-lg"></div>
                   </div>
                 </div>
                 
