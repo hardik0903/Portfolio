@@ -40,7 +40,7 @@ export const projects = [
     title: "Tweet Analyzer",
     description: "This is a powerful and scalable platform for real-time tweet analysis and campaign tracking. It provides a comprehensive suite of tools to monitor trends, analyze sentiment, identify key influencers, and measure the impact of your social media campaigns.",
     tech: ["Firebase", "React", "Next.js"],
-    image: "https://drive.google.com/uc?id=1qBluVyhvqGalOl8UTLIRc3zyO5eKIhKL",
+    image: "https://customer-assets.emergentagent.com/job_hardik-portfolio/artifacts/3h7araz8_sentinelx.png",
     liveLink: "https://sentinelx-codez.vercel.app/",
     featured: true
   },
@@ -49,7 +49,7 @@ export const projects = [
     title: "RAG",
     description: "This project is an advanced Retrieval-Augmented Generation (RAG) chatbot that enables users to upload PDF documents and receive intelligent, context-aware answers. The system effectively transforms static documents into a dynamic, conversational knowledge base, making complex information easily accessible.",
     tech: ["LLM", "Python", "LangChain"],
-    image: "https://drive.google.com/uc?id=1Ax8KrLk-drL0lfpNF4JMoK0moSSAxH1Q",
+    image: "https://customer-assets.emergentagent.com/job_hardik-portfolio/artifacts/qmwivd3e_insightflow.png",
     liveLink: "https://rag-work.vercel.app/",
     featured: true
   },
@@ -58,7 +58,7 @@ export const projects = [
     title: "Ascraa",
     description: "The core innovation is a video-resume system using computer vision and deep learning to verify identity and detect deepfakes, aiming to cut recruiter screening time by 50%. I am leading the architecture of the backend, the ML pipeline for candidate scoring, and the scalable job-matching algorithm.",
     tech: ["Tensorflow", "Python", "Keras"],
-    image: "https://drive.google.com/uc?id=1nuOZnsGtbwWY8DZ7wJ4_E3dL-vSaGM9K",
+    image: "https://customer-assets.emergentagent.com/job_hardik-portfolio/artifacts/q2dkgm3z_ascraa.png",
     liveLink: "https://ascraa.in/",
     featured: true,
     status: "In Development"
@@ -68,7 +68,7 @@ export const projects = [
     title: "BrokerVerse",
     description: "It provides a platform for investors to lodge and track complaints against listed companies and registered intermediaries. The core of the project is a modern, server-rendered application built with Next.js, featuring a robust API and a seamless user interface.",
     tech: ["FastAPI", "React", "Next.js", "Vercel"],
-    image: "https://drive.google.com/uc?id=1OQCEWrBgezaivN2EGdyWEphk_4dzuYFv",
+    image: "https://customer-assets.emergentagent.com/job_hardik-portfolio/artifacts/wrd2ysrk_Screenshot%202025-09-27%20214916.png",
     liveLink: "https://mock-repo-neon.vercel.app/",
     featured: true
   }
